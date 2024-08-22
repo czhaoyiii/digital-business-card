@@ -1,0 +1,17 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 22px;
+  background-color: #161619;
+  border-radius: 0 0 10px 10px;
+}
+
+.footer a {
+  color: #918e9b;
+  cursor: pointer;
+}
+
+.footer a:hover {
+  color: #fff;
+}

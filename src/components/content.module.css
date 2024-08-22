@@ -1,0 +1,19 @@
+.contentWrapper {
+  color: #fff;
+  padding: 0 35px 21px;
+}
+
+h2 {
+  margin: 0;
+  margin-bottom: 6px;
+  font-size: 18px;
+}
+
+p {
+  margin: 0;
+  font-size: 12px;
+}
+
+.interest {
+  padding-top: 21px;
+}
