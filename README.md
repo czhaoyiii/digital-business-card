@@ -14,11 +14,11 @@ You can view the live version [here](https://czhaoyiii.github.io/digital-busines
 The project is deployed using GitHub Pages for easy hosting and sharing.
 
 ## How to Run Locally
-1. Clone the repository: <br>
+1. Clone the repository:
 ```bash
 git clone https://github.com/czhaoyiii/digital-business-card.git
 ```
-2. Navigate into the project directory: <br>
+2. Navigate into the project directory:
 ```bash
 cd digital-business-card
 ``` 
