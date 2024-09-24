@@ -16,7 +16,7 @@ The project is deployed using GitHub Pages for easy hosting and sharing.
 ## How to Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/czhaoyiii/digital-business-card.git
+git clone https://github.com/czhaoyiii/digital-business-card/
 ```
 2. Navigate into the project directory:
 ```bash
@@ -31,7 +31,7 @@ npm install
 npm run dev
 ```
 
-## Future Improvements
+## Potential Improvements
 * Adding an interactive contact form.
 * Implementing a dark mode option for better user experience.
 ## License
